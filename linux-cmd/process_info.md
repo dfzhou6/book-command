@@ -31,4 +31,10 @@ ps aux | sort -k4nr | head -n10
 # ps aux | grep [pid]
 查看进程[pid]的静态资源信息
 
+# /proc/meminfo
+查看内存大小
+
+# /proc/cpuinfo
+查看cpu大小
+
 
